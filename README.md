@@ -1,21 +1,25 @@
-A simple React.js task manager to create, edit, delete, and track tasks with due dates and statuses.
+📝 Task Management App
 
-# 🚀 Features
+A simple and responsive React.js Task Manager that allows you to add, edit, delete, and track tasks with due dates and statuses. Built using React Router for navigation and Tailwind CSS for a modern UI.
 
-## Add new tasks with title, description, due date, and status
+🚀 Features
 
-## Edit and update existing tasks
+Add Tasks – Create tasks with title, description, due date, and status.
 
-## Delete tasks instantly
+Edit Tasks – Update task details anytime.
 
-## Status tracking: Pending, In Progress, Completed
+Delete Tasks – Remove tasks instantly.
 
-## Styled with Tailwind CSS
+Status Tracking – Manage tasks with Pending, In Progress, and Completed labels.
 
-# 🛠 Tech Stack
+Responsive Design – Works seamlessly on desktop and mobile.
 
-## React.js (useState, useEffect, useRef)
+🛠 Tech Stack
 
-## React Router (for navigation between pages)
+React.js – Frontend framework for UI and state management.
 
-## Tailwind CSS (for responsive, modern UI)
+React Router – Navigation between pages.
+
+Tailwind CSS – Modern and responsive styling.
+
+useState, useEffect, useRef – React hooks for state & lifecycle handling.
