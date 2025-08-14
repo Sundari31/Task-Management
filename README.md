@@ -1,12 +1,21 @@
-# React + Vite
+A simple React.js task manager to create, edit, delete, and track tasks with due dates and statuses.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 Features
 
-Currently, two official plugins are available:
+## Add new tasks with title, description, due date, and status
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Edit and update existing tasks
 
-## Expanding the ESLint configuration
+## Delete tasks instantly
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Status tracking: Pending, In Progress, Completed
+
+## Styled with Tailwind CSS
+
+# 🛠 Tech Stack
+
+## React.js (useState, useEffect, useRef)
+
+## React Router (for navigation between pages)
+
+## Tailwind CSS (for responsive, modern UI)
